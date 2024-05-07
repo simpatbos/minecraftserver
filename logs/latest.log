@@ -1,0 +1,317 @@
+[06May2024 18:54:50.962] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    Version 附耳 (Whisper) / arclight-1.20.4-1.0.3-13f0d63
+    Build Date 2024-03-12 14:35:42
+
+[06May2024 18:54:50.980] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclight_server]
+[06May2024 18:54:50.980] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Homebrew OpenJDK 64-Bit Server VM 21.0.2
+[06May2024 18:54:50.980] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 21.0.2 by Homebrew; OS Mac OS X arch aarch64 version 14.3.1
+[06May2024 18:54:51.026] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclight_server
+[06May2024 18:54:51.066] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///Users/sbosslet/Projects/ArclightServer/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar!/ Service=ModLauncher Env=SERVER
+[06May2024 18:54:51.176] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06May2024 18:54:51.570] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06May2024 18:54:51.586] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[06May2024 18:54:51.603] [main/INFO] [Arclight/]: Arclight core mixin added.
+[06May2024 18:54:51.604] [main/INFO] [Arclight/]: Arclight optimization mixin added.
+[06May2024 18:54:51.606] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclight_server' with arguments []
+[06May2024 18:54:53.013] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.properties]
+[06May2024 18:54:53.053] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/Users/sbosslet/Projects/ArclightServer/libraries/com/github/oshi/oshi-core/6.4.5/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[06May2024 18:54:57.315] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod loaded.
+[06May2024 18:54:57.323] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.0.31, for MC 1.20.4 with MCP 20231207.112700
+[06May2024 18:54:57.323] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.0.31 Initialized
+[06May2024 18:54:57.335] [modloading-worker-0/INFO] [Arclight/]: Arclight events registered.
+[06May2024 18:54:57.350] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[06May2024 18:54:57.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06May2024 18:54:58.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 49.0.31 Target: 49.0.49
+[06May2024 18:54:58.451] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06May2024 18:54:59.321] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[06May2024 18:54:59.459] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
+[06May2024 18:55:01.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.4
+[06May2024 18:55:01.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[06May2024 18:55:01.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[06May2024 18:55:01.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[06May2024 18:55:01.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[06May2024 18:55:01.291] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[06May2024 18:55:01.535] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.4-1.0.3-13f0d63 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[06May2024 18:55:02.341] [Server thread/INFO] [Arclight/]: Registering for Bukkit ...
+[06May2024 18:55:02.384] [Server thread/INFO] [Arclight/]: Registered 0 new materials with 0 blocks and 0 items
+[06May2024 18:55:02.387] [Server thread/INFO] [Arclight/]: Registered 0 new entity types
+[06May2024 18:55:02.387] [Server thread/INFO] [Arclight/]: Registered 0 new villager professions
+[06May2024 18:55:02.388] [Server thread/INFO] [Arclight/]: Registered 0 new biomes
+[06May2024 18:55:02.401] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[06May2024 18:55:02.402] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
+[06May2024 18:55:02.403] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[06May2024 18:55:02.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[06May2024 18:55:02.509] [Server thread/INFO] [Arclight/]: Registered 0 new dimensions
+[06May2024 18:55:02.740] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[06May2024 18:55:02.740] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06May2024 18:55:02.740] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[06May2024 18:55:02.740] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[06May2024 18:55:02.740] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[06May2024 18:55:02.740] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[06May2024 18:55:02.740] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[06May2024 18:55:02.741] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[06May2024 18:55:02.742] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[06May2024 18:55:02.742] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[06May2024 18:55:02.742] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[06May2024 18:55:02.742] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[06May2024 18:55:02.742] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[06May2024 18:55:02.742] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[06May2024 18:55:02.742] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[06May2024 18:55:02.742] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[06May2024 18:55:04.357] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[06May2024 18:55:04.382] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[06May2024 18:55:04.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[06May2024 18:55:06.611] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2024 18:55:06.612] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2024 18:55:06.612] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2024 18:55:06.612] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2024 18:55:06.612] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[06May2024 18:55:06.913] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[06May2024 18:55:07.354] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2942 ms
+[06May2024 18:55:07.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.898s)! For help, type "help"
+[06May2024 18:55:07.395] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[06May2024 18:55:07.395] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
+[06May2024 18:55:34.799] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06May2024 18:55:38.095] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06May2024 18:55:44.695] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: --------- Help: Index ---------------------------
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: Use /help [n] to get page n of help.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: Aliases: Lists command aliases
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: Bukkit: All commands for Bukkit
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: Minecraft: All commands for Minecraft
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /advancement: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /attribute: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /ban: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /ban-ip: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /banlist: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /bossbar: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /clear: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /clone: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /config: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /damage: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /data: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /datapack: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /debug: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /defaultgamemode: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /deop: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /difficulty: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /effect: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /enchant: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /execute: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /experience: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /fill: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /fillbiome: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /forceload: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /forge: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /function: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /gamemode: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /gamerule: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /give: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /help: Shows the help menu
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /item: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /jfr: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /kick: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /kill: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /list: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /locate: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /loot: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /me: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /minecraft:help: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /minecraft:reload: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /msg: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /op: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /pardon: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /pardon-ip: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /particle: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /perf: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /place: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /playsound: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /plugins: Gets a list of plugins running on the server
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /random: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /recipe: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /reload: Reloads the server configuration and plugins
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /restart: Restarts the server
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /return: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /ride: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /save-all: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /save-off: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /save-on: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /say: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /schedule: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /scoreboard: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /seed: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /setblock: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /setidletimeout: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /setworldspawn: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /spawnpoint: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /spectate: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /spigot: Spigot related commands
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /spreadplayers: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /stop: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /stopsound: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /summon: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /tag: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /team: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /teammsg: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /teleport: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /tell: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /tellraw: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /tick: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /time: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /timings: Manages Spigot Timings data to see performance of the server.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /title: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /tm: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /tp: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /tps: Gets the current ticks per second for the server
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /trigger: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /version: Gets the version of this server including any plugins in use
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /w: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /weather: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /whitelist: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /worldborder: A Mojang provided command.
+[06May2024 18:55:48.197] [Server thread/INFO] [Console/]: /xp: A Mojang provided command.
+[06May2024 18:56:02.385] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06May2024 18:56:02.385] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: stdin isn't a terminal
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar!/:?] {}
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar!/:?] {}
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.4-49.0.31-universal.jar!/:?] {re:classloading}
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[forge-1.20.4-49.0.31-server.jar!/:?] {re:classloading}
+Caused by: java.io.IOException: Error executing 'stty -a': stty: stdin isn't a terminal
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar!/:?] {}
+	... 4 more
+[06May2024 18:56:02.393] [SIGCONT handler/ERROR] [STDERR/]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: stdin isn't a terminal
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:46)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.AbstractTerminal.enterRawMode(AbstractTerminal.java:117)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.reader@3.12.1/org.jline.reader.impl.LineReaderImpl.handleSignal(LineReaderImpl.java:1043)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.AbstractTerminal.raise(AbstractTerminal.java:81)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.PosixSysTerminal.lambda$handle$1(PosixSysTerminal.java:65)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.Signals.lambda$register$1(Signals.java:52)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jdk.proxy2/jdk.proxy2.$Proxy52.handle(Unknown Source)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at jdk.unsupported/sun.misc.Signal$InternalMiscHandler.handle(Signal.java:198)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:218)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: Caused by: java.io.IOException: Error executing 'stty -a': stty: stdin isn't a terminal
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	at SECURE-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:44)
+[06May2024 18:56:02.395] [SIGCONT handler/ERROR] [STDERR/]: 	... 9 more
+[06May2024 18:56:02.396] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06May2024 18:56:02.396] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06May2024 18:56:02.396] [JLine Shutdown Hook/WARN] [org.jline/]: Task failed
+java.io.IOException: Error executing 'stty -a': stty: stdin isn't a terminal
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.AbstractPosixTerminal.close(AbstractPosixTerminal.java:76) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.terminal.impl.PosixSysTerminal.close(PosixSysTerminal.java:95) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.utils.ShutdownHooks.runTasks(ShutdownHooks.java:55) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.utils.ShutdownHooks.access$000(ShutdownHooks.java:21) ~[jline-terminal-3.12.1.jar!/:?] {}
+	at org.jline.utils.ShutdownHooks$1.run(ShutdownHooks.java:36) ~[jline-terminal-3.12.1.jar!/:?] {}
